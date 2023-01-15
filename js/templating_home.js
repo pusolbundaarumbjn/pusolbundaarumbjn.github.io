@@ -41,60 +41,60 @@ let product_detail = [
         "judul": "Molen Salak Wedi",
         "desc": "Mungkin Molen pisang sudah sering ditemukan, tetapi untuk product molen kering ini berisi isian dari olahan kurma salak wedi yang berukuran lebih kecil sehingga dapat dibalut dengan kulit molen."
     },
-    {
-        "kategori": "merchandise",
-        "img_src": "mug1.jpg",        
-        "judul": "Mug Tropical Fruits",
-        "desc": "Tipe Mug bisa digunakan untuk minuman panas atau dingin seperti kopi, tea, coklat panas, dan soda. Memiliki handle agar nyaman dipegang, dan dapat menampung hingga 240-350ml. Mug ini menggunakan bahan dasar keramik yang tergolong bahan isolator."
-    },
-    {
-        "kategori": "merchandise",
-        "img_src": "mug2.jpg",        
-        "judul": "Mug Growing Seed",
-        "desc": "Tipe Mug bisa digunakan untuk minuman panas atau dingin seperti kopi, tea, coklat panas, dan soda. Memiliki handle agar nyaman dipegang, dan dapat menampung hingga 240-350ml. Mug ini menggunakan bahan dasar keramik yang tergolong bahan isolator."
-    },
-    {
-        "kategori": "merchandise",
-        "img_src": "mug3.jpg",        
-        "judul": "Mug Snake Fruit Palm",
-        "desc": "Tipe Mug bisa digunakan untuk minuman panas atau dingin seperti kopi, tea, coklat panas, dan soda. Memiliki handle agar nyaman dipegang, dan dapat menampung hingga 240-350ml. Mug ini menggunakan bahan dasar keramik yang tergolong bahan isolator."
-    },
-    {
-        "kategori": "merchandise",
-        "img_src": "tshirt5.jpg,tshirt1.jpg",        
-        "judul": "T-Shirt Snake Fruit Season",
-        "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
-    },    
-    {
-        "kategori": "merchandise",
-        "img_src": "tshirt8.jpg,tshirt2.jpg",        
-        "judul": "T-Shirt Life On Bojonegoro",
-        "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
-    },
-    {
-        "kategori": "merchandise",
-        "img_src": "tshirt6.jpg,tshirt3.jpg",        
-        "judul": "T-Shirt Growing Seed",
-        "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
-    },
-    {
-        "kategori": "merchandise",
-        "img_src": "tshirt7.jpg,tshirt4.jpg",        
-        "judul": "T-Shirt Plant, Grow, and Care",
-        "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
-    },    
-    {
-        "kategori": "merchandise",
-        "img_src": "totebag1.jpg",        
-        "judul": "Tote Bag Snake Fruit Palm ",
-        "desc": "Tas jinjing simple yang dilengkapi dengan dua tali pegangan pada bagian atas. Totebag ini memiliki design gambar terkait dengan 'salak', ukuran tote bag mulai dari ukuran sedang hingga besar. Tote bag dapat difungsikan untuk membawa sejumlah barang misalnya untuk berbelanja atau perkuliahan. Bahan yang digunakan terbuat dari kain kanvas."
-    },
-    {
-        "kategori": "merchandise",
-        "img_src": "totebag2.jpg",        
-        "judul": "Tote Bag Snake Fruit",
-        "desc": "Tas jinjing simple yang dilengkapi dengan dua tali pegangan pada bagian atas. Totebag ini memiliki design gambar terkait dengan 'salak', ukuran tote bag mulai dari ukuran sedang hingga besar. Tote bag dapat difungsikan untuk membawa sejumlah barang misalnya untuk berbelanja atau perkuliahan. Bahan yang digunakan terbuat dari kain kanvas."
-    },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "mug1.jpg",        
+    //     "judul": "Mug Tropical Fruits",
+    //     "desc": "Tipe Mug bisa digunakan untuk minuman panas atau dingin seperti kopi, tea, coklat panas, dan soda. Memiliki handle agar nyaman dipegang, dan dapat menampung hingga 240-350ml. Mug ini menggunakan bahan dasar keramik yang tergolong bahan isolator."
+    // },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "mug2.jpg",        
+    //     "judul": "Mug Growing Seed",
+    //     "desc": "Tipe Mug bisa digunakan untuk minuman panas atau dingin seperti kopi, tea, coklat panas, dan soda. Memiliki handle agar nyaman dipegang, dan dapat menampung hingga 240-350ml. Mug ini menggunakan bahan dasar keramik yang tergolong bahan isolator."
+    // },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "mug3.jpg",        
+    //     "judul": "Mug Snake Fruit Palm",
+    //     "desc": "Tipe Mug bisa digunakan untuk minuman panas atau dingin seperti kopi, tea, coklat panas, dan soda. Memiliki handle agar nyaman dipegang, dan dapat menampung hingga 240-350ml. Mug ini menggunakan bahan dasar keramik yang tergolong bahan isolator."
+    // },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "tshirt5.jpg,tshirt1.jpg",        
+    //     "judul": "T-Shirt Snake Fruit Season",
+    //     "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
+    // },    
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "tshirt8.jpg,tshirt2.jpg",        
+    //     "judul": "T-Shirt Life On Bojonegoro",
+    //     "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
+    // },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "tshirt6.jpg,tshirt3.jpg",        
+    //     "judul": "T-Shirt Growing Seed",
+    //     "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
+    // },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "tshirt7.jpg,tshirt4.jpg",        
+    //     "judul": "T-Shirt Plant, Grow, and Care",
+    //     "desc": "Product kaos ini memiliki design terkait dengan gambar 'salak'. Tersedia dalam ukuran small, medium,extra large, dan triple extra large. Bahan dari kaos adalah jenis kain cotton bamboo yang dimana memiliki keunggulan anti bakteri, dapat menyerap keringat dengan baik, dan ramah lingkungan."
+    // },    
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "totebag1.jpg",        
+    //     "judul": "Tote Bag Snake Fruit Palm ",
+    //     "desc": "Tas jinjing simple yang dilengkapi dengan dua tali pegangan pada bagian atas. Totebag ini memiliki design gambar terkait dengan 'salak', ukuran tote bag mulai dari ukuran sedang hingga besar. Tote bag dapat difungsikan untuk membawa sejumlah barang misalnya untuk berbelanja atau perkuliahan. Bahan yang digunakan terbuat dari kain kanvas."
+    // },
+    // {
+    //     "kategori": "merchandise",
+    //     "img_src": "totebag2.jpg",        
+    //     "judul": "Tote Bag Snake Fruit",
+    //     "desc": "Tas jinjing simple yang dilengkapi dengan dua tali pegangan pada bagian atas. Totebag ini memiliki design gambar terkait dengan 'salak', ukuran tote bag mulai dari ukuran sedang hingga besar. Tote bag dapat difungsikan untuk membawa sejumlah barang misalnya untuk berbelanja atau perkuliahan. Bahan yang digunakan terbuat dari kain kanvas."
+    // },
 ]
 
 for(let i = 0; i < product_detail.length; i++){   
